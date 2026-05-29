@@ -15,9 +15,13 @@ body {
 
   height: 60px;
   padding: 0 50px;
+
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .logo img {
+  display: block;
   height: 40px;
 }
 
